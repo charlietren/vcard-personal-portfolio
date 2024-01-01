@@ -2,14 +2,14 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Charlie Trenorden
+Charlie Trenorden
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+charlie.tren@gmail.com
 
 Phone
 +1 (213) 352-2795
@@ -18,7 +18,7 @@ Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Brisbane, Australia
 
 # navbar
 
@@ -32,10 +32,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+Diligent and personable graduate with a dual degree in IT and Business at QUT (majoring in Computer Science and Finance). Extremely fast learner with an innate curiosity and drive to always improve. Prior experience in the IT industry and in leadership positions. During my time at QUT I was placed on the Dean’s List and participated in exchange programs at the University of Gothenburg in Sweden and Sungkyunkwan University in South Korea. Right to work in both Australia and the United Kingdom.
 
 ## service
 
@@ -233,8 +230,8 @@ Contact
 
 Contact Form
 
-Full name
-Email address
+Charlie Trenorden
+charlie.tren@gmail.com
 Your Message
 
 Send Message
